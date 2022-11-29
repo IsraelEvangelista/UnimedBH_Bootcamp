@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 ## Description.
      
-  The package package_name is used to:
+  The package **_image_processing_** is used to:
    
    - Processing:
 		- Histogram matching
