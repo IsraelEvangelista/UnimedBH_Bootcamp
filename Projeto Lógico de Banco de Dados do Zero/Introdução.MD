@@ -21,22 +21,22 @@ Introdução:
 
 ## Criação do modelo lógico _oficina_
 
-[Projeto Lógico](https://github.com/IsraelEvangelista/UnimedBH_Bootcamp/blob/main/Projeto%20L%C3%B3gico%20de%20Banco%20de%20Dados/e_commerce.png)
+[Projeto Lógico](https://github.com/IsraelEvangelista/UnimedBH_Bootcamp/blob/main/Projeto%20L%C3%B3gico%20de%20Banco%20de%20Dados%20do%20Zero/officina.png)
 
 # Segunda etapa:
 
 ## Criação das tabelas e suas constraints
 
-[Link para comandos de criação das tabelas](https://github.com/IsraelEvangelista/UnimedBH_Bootcamp/blob/main/Projeto%20L%C3%B3gico%20de%20Banco%20de%20Dados/Criando_tabelas.sql)
+[Link para comandos de criação das tabelas](https://github.com/IsraelEvangelista/UnimedBH_Bootcamp/blob/main/Projeto%20L%C3%B3gico%20de%20Banco%20de%20Dados%20do%20Zero/Criando_tabelas.sql)
 
 # Terceira etapa:
 
 ## Inserção de dados nas tabelas criadas
 
-[Povoando Tabelas](https://github.com/IsraelEvangelista/UnimedBH_Bootcamp/blob/main/Projeto%20L%C3%B3gico%20de%20Banco%20de%20Dados/Inserindo_dados.sql)
+[Povoando Tabelas](https://github.com/IsraelEvangelista/UnimedBH_Bootcamp/blob/main/Projeto%20L%C3%B3gico%20de%20Banco%20de%20Dados%20do%20Zero/Inserindo_dados.sql)
 
 # Última etapa:
 
 ## Elaboração das queries de acordo com o proposto no desafio
 
-[Query](https://github.com/IsraelEvangelista/UnimedBH_Bootcamp/blob/main/Projeto%20L%C3%B3gico%20de%20Banco%20de%20Dados/query.sql)
+[Query](https://github.com/IsraelEvangelista/UnimedBH_Bootcamp/blob/main/Projeto%20L%C3%B3gico%20de%20Banco%20de%20Dados%20do%20Zero/query.sql)
